@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(20, 6, 34);
+    color: white;
+}
+.top{
+    color: rgb(69, 191, 152);
+    font-size: 20px;
+    padding: 1em 1em 0em 1em;
+    /* margin-left: 16em; */
+    /* justify-content: center; */
+}
+.down{
+    padding-top: 4em;
+    padding: 2em;
+}
+.btn1{
+    margin-top: 1em;
+    background-color: blueviolet;
+    border: none;
+    color: white;
+    padding: 1em;
+    margin: 2em;
+}
+.btn1:hover{
+    background-color: rgb(69, 191, 152);
+    cursor: pointer;
+}
